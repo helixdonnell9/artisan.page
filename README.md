@@ -23,11 +23,6 @@ $ npm run start
 $ npm run generate
 ```
 
-## Credits
-
-- [James Brooks](https://github.com/jbrooksuk)
-- [All Contributors](../../contributors)
-
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
